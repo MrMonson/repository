@@ -1,0 +1,176 @@
+body {
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+}
+
+.nav-bar {
+    background-color: #e4c79f; 
+    width: 100%;
+    height: 80px;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    z-index: 2;
+}
+
+.logo {
+    height: 75px;
+    width: 75px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.nav-list{
+    height: 100px;
+    width: 300px;
+    float: right;
+    /*margin-right: 10px*/
+}
+
+.list-item{
+    height: 60px;
+    width: 60px;
+    list-style-type: none;
+    color: white;
+    background-color: #65522a;
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    /*margin-right: 25px;*/
+    margin-top: 45px;
+    border-color: yellow;
+    border-radius: 10px 10px 20px 20px;
+    
+}
+
+
+.list-item:hover {
+    color: red
+}
+
+.list-item a {
+    text-decoration: none;
+    color: white
+}
+
+.list-item a:hover{
+    color: blue
+}
+
+.banner {
+    background-image: url('../img/bull-terrier_reclining_edit.jpg');
+    /*width: 1600px;*/
+    height: 450px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 80px;
+        }
+
+.banner-text {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    background-color: #6d6a57;
+    margin-top: 165px;
+    margin-left: 300px;
+    text-align: center;
+    line-height: 1.6;
+    border: 3px solid #b1aca8;
+}
+
+.banner-text h1 {
+    text-shadow: 2px 2px #fff;
+}
+.column {
+    height: 500px;
+    width: 45%;
+    border: 3px solid #655323;
+    /*position: absolute;*/
+    margin:20px;
+        }
+
+.col-1 {
+    float: left;
+    
+    
+    }
+
+.col-img {
+    height: 300px;
+    width: 300px;
+    
+    padding-top: 3px;
+    padding-left: 180px;
+}
+.col-2 {
+    float: left;
+       }
+
+.col-2 p{
+    text-align: justify;
+    padding: 20px;
+}
+
+.content {
+    height: 440px;
+}
+
+.footer {
+    width: 100%;
+    height: 100px;
+    background-color: #e4c79f;
+    clear: both;
+}
+        
+.footer-col {
+    width: 32%;
+    display: inline-block;
+    text-align: center;
+    /*line-height: 70px;*/
+}
+            
+.fa-facebook-square{
+                color: black;
+}
+
+.copyright {
+            color: black;
+}
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        

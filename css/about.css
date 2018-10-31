@@ -1,0 +1,38 @@
+.about-text{
+    height: 100px;
+    width: 600px;
+    display: inline-block;
+    background-color: #6d6a57;
+    margin-top: 130px;
+    text-align: center;
+    line-height: 1.6;
+    border: 3px solid #b1aca8;
+    /*margin: auto;*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container{
+    width: 100%;
+    margin: 0 auto;
+    height: 800px;
+    margin-top: 80px;
+}
+
+.about-col {
+    width: 31%;
+    height: 700px;
+    border: 3px solid #e4c79f;
+    float: left;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.about-col p {
+    padding: 35px 20px;
+    text-align: justify;
+}
+
+.pic, .audio, .video {
+    margin-top: 20px;
+}
