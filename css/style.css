@@ -4,7 +4,7 @@ body {
 }
 
 .nav-bar {
-    background-color: #e4c79f; 
+    background-color:  gray; /*#e4c79f; */
     width: 100%;
     height: 80px;
     overflow: hidden;
